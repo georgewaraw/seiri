@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34127",
   "files" : {
+    "\/.gitattributes" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/.gitattributes",
+      "oF" : 1
+    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
