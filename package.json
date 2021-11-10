@@ -1,0 +1,22 @@
+{
+  "name": "@waraw/seiri",
+  "version": "0.1.0",
+  "description": "three.js 3D horror FPS",
+  "main": "build/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three.js", "threejs", "three", "js",
+    "3d",
+    "horror",
+    "fps", "first-person", "first", "person", "shooter",
+    "game"
+  ],
+  "author": "George Waraw <georgewaraw@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "popmotion": "^9.4.0",
+    "three": "^0.124.0"
+  }
+}

@@ -1,0 +1,30 @@
+* {
+
+	width: 100vw;
+	height: 100vh;
+
+	overflow: hidden;
+
+}
+
+body {
+
+	margin: 0;
+
+	background: Snow;
+
+}
+
+div {
+
+	display: flex;
+	justify-content: center; /* horizontally */
+	align-items: center; /* vertically */
+
+	font-size: 7.5em;
+	font-family: monospace;
+
+	background: Snow;
+	color: Black;
+
+}
